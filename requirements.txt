@@ -1,0 +1,9 @@
+
+numpy>=1.18.5
+ultralytics>=8.2.0
+opencv-python>=4.9.0.80
+torch>=2.3.0
+cvzone 
+filterpy>=1.4.5 
+scikit-image>=0.19.3 
+lap>=0.5.11
