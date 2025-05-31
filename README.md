@@ -26,11 +26,6 @@ This is a **custom computer vision project** that uses the **YOLOv8 object detec
 - Add `SORT.py` tracker (remove or comment `matplotlib` imports if using on cloud notebooks)
 - A system with GPU is recommended for real-time performance
 
-```bash
-pip install -r requirements.txt
-
----
-
 
 Important Note:
 This project is designed as a custom solution for specific surveillance setups. The red zone area must be manually defined based on your camera angle and environment. As a result, it is not plug-and-play for general use without customization.
